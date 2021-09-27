@@ -1,7 +1,12 @@
 #!/bin/bash
 
+download_binance() {
+	cd /mnt/freqdata/freqtrade
+	python /mnt/freqdata/pythonlib/binance_usd_pairs.py > ./user_data/binance_usd_pairs.json
+	freqtrade download-data -c user_data/binance_usd_pairs.json --exchange binance --days 100 --timeframes {1m,5m,15m,1h,4h,1d}
+}
+
 download_ftx() {
-	source /mnt/freqdata/freqtrade/.env/bin/activate
 	cd /mnt/freqdata/freqtrade
 	python /mnt/freqdata/pythonlib/ftx_usd_pairs.py > ./user_data/ftx_usd_pairs.json
 	freqtrade download-data -c user_data/ftx_usd_pairs.json --exchange ftx --days 100 --timeframes {1m,5m,15m,1h,4h,1d}
@@ -15,5 +20,9 @@ update_git() {
 	git push
 }
 
+cd /mnt/freqdata/pythonlib && git pull
+source /mnt/freqdata/freqtrade/.env/bin/activate
+
+download_binance
 download_ftx
 update_git
