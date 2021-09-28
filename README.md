@@ -2,7 +2,6 @@
 
 Found 330 pair / timeframe combinations.
 
-+------------+-------------------------+
 |       Pair |               Timeframe |
 |------------+-------------------------|
 |  AAVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -60,14 +59,12 @@ Found 330 pair / timeframe combinations.
 |   XRP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XTZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ZEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
-+------------+-------------------------+
 
 
 ## FTX pairs
 
 Found 324 pair / timeframe combinations.
 
-+-----------+-------------------------+
 |      Pair |               Timeframe |
 |-----------+-------------------------|
 |  AAVE/USD | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -124,4 +121,3 @@ Found 324 pair / timeframe combinations.
 |   XRP/USD | 1m, 5m, 15m, 1h, 4h, 1d |
 |   YFI/USD | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ZRX/USD | 1m, 5m, 15m, 1h, 4h, 1d |
-+-----------+-------------------------+
