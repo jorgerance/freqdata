@@ -20,9 +20,20 @@ update_git() {
 	git push
 }
 
+generate_readme() {
+	README='/mnt/freqdata/tickersdata/README.md'
+	> ${README} 
+	cd /mnt/freqdata/freqtrade
+	echo -e "## Binance pairs\n" >> ${README}
+	freqtrade list-data --userdir ./user_data/ -c ./config.json -c ./user_data/binance_usd_pairs.json  --exchange binance >> ${README}
+	echo -e "\n\n## FTX pairs\n" >> ${README}
+	freqtrade list-data --userdir ./user_data/ -c ./config.json -c ./user_data/ftx_usd_pairs.json  --exchange ftx >> ${README}
+}
+
 cd /mnt/freqdata/pythonlib && git pull
 source /mnt/freqdata/freqtrade/.env/bin/activate
 
 download_binance
 download_ftx
+generate_readme
 update_git
