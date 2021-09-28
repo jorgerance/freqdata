@@ -1,6 +1,6 @@
 ## Binance pairs
 
-Found 330 pair / timeframe combinations.
+Found 342 pair / timeframe combinations.
 
 |       Pair |               Timeframe |
 |------------|-------------------------|
@@ -35,6 +35,7 @@ Found 330 pair / timeframe combinations.
 |  HBAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ICP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IDEX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  IOST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  KAVA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  LINK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   LTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -56,6 +57,7 @@ Found 330 pair / timeframe combinations.
 |  USDP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   VET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   XMR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XRP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XTZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ZEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
