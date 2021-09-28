@@ -28,6 +28,8 @@ generate_readme() {
 	freqtrade list-data --userdir ./user_data/ -c ./config.json -c ./user_data/binance_usd_pairs.json  --exchange binance >> ${README}
 	echo -e "\n\n## FTX pairs\n" >> ${README}
 	freqtrade list-data --userdir ./user_data/ -c ./config.json -c ./user_data/ftx_usd_pairs.json  --exchange ftx >> ${README}
+	sed s/\+--*+-*-\+$//g -i ${README}
+	sed s/---\+---/---\|---/g -i ${README}
 }
 
 cd /mnt/freqdata/pythonlib && git pull

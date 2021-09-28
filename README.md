@@ -61,6 +61,7 @@ Found 330 pair / timeframe combinations.
 |   ZEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 
 
+
 ## FTX pairs
 
 Found 324 pair / timeframe combinations.
@@ -121,3 +122,4 @@ Found 324 pair / timeframe combinations.
 |   XRP/USD | 1m, 5m, 15m, 1h, 4h, 1d |
 |   YFI/USD | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ZRX/USD | 1m, 5m, 15m, 1h, 4h, 1d |
+
