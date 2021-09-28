@@ -3,7 +3,7 @@
 Found 330 pair / timeframe combinations.
 
 |       Pair |               Timeframe |
-|------------+-------------------------|
+|------------|-------------------------|
 |  AAVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ADA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ALGO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -66,7 +66,7 @@ Found 330 pair / timeframe combinations.
 Found 324 pair / timeframe combinations.
 
 |      Pair |               Timeframe |
-|-----------+-------------------------|
+|-----------|-------------------------|
 |  AAVE/USD | 1m, 5m, 15m, 1h, 4h, 1d |
 |  AGLD/USD | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ALCX/USD | 1m, 5m, 15m, 1h, 4h, 1d |
