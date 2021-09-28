@@ -1,6 +1,7 @@
 ## Binance pairs
 
 Found 330 pair / timeframe combinations.
+
 +------------+-------------------------+
 |       Pair |               Timeframe |
 |------------+-------------------------|
@@ -65,6 +66,7 @@ Found 330 pair / timeframe combinations.
 ## FTX pairs
 
 Found 324 pair / timeframe combinations.
+
 +-----------+-------------------------+
 |      Pair |               Timeframe |
 |-----------+-------------------------|
