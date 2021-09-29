@@ -5,13 +5,14 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 348 pair / timeframe combinations.
+Found 366 pair / timeframe combinations.
 
 |       Pair |               Timeframe |
 |------------|-------------------------|
 |  AAVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ADA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ALGO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+| ALICE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ATOM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  AVAX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   AXS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -24,6 +25,7 @@ Found 348 pair / timeframe combinations.
 |  COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CRV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  DASH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  DENT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  DOGE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DOT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  DYDX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -62,6 +64,7 @@ Found 348 pair / timeframe combinations.
 |  USDC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  USDP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   VET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   XEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XMR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XRP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
