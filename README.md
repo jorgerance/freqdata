@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 366 pair / timeframe combinations.
+Found 372 pair / timeframe combinations.
 
 |       Pair |               Timeframe |
 |------------|-------------------------|
@@ -22,6 +22,7 @@ Found 366 pair / timeframe combinations.
 |  CAKE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  CELO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  CELR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  COMP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CRV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  DASH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
