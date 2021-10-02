@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 378 pair / timeframe combinations.
+Found 396 pair / timeframe combinations.
 
 |       Pair |               Timeframe |
 |------------|-------------------------|
@@ -44,6 +44,7 @@ Found 378 pair / timeframe combinations.
 |   ICP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IDEX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IOST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  IOTA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  KAVA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KSM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  LINK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -54,6 +55,8 @@ Found 378 pair / timeframe combinations.
 |   OMG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ONE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  PERP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  ROSE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  SAND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  SHIB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SLP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SOL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
