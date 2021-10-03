@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 396 pair / timeframe combinations.
+Found 408 pair / timeframe combinations.
 
 |       Pair |               Timeframe |
 |------------|-------------------------|
@@ -34,6 +34,7 @@ Found 396 pair / timeframe combinations.
 |   EOS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ETC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ETH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   FET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   FIL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  FLOW/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   FTM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -55,6 +56,7 @@ Found 396 pair / timeframe combinations.
 |   OMG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ONE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  PERP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  QTUM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ROSE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  SAND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  SHIB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
