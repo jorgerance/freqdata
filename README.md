@@ -5,12 +5,13 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 408 pair / timeframe combinations.
+Found 438 pair / timeframe combinations.
 
 |       Pair |               Timeframe |
 |------------|-------------------------|
 |  AAVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ADA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  AGLD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ALGO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | ALICE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ATOM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -22,6 +23,7 @@ Found 408 pair / timeframe combinations.
 |  CAKE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  CELO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  CELR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   CHZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  COMP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CRV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -43,6 +45,7 @@ Found 408 pair / timeframe combinations.
 |   GRT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  HBAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ICP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   ICX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IDEX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IOST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IOTA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -63,6 +66,7 @@ Found 408 pair / timeframe combinations.
 |   SLP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SOL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SRM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  STPT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | SUSHI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | THETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   TRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -71,6 +75,7 @@ Found 408 pair / timeframe combinations.
 |  USDC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  USDP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   VET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   WIN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   XMR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
