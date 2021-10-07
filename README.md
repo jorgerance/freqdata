@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 438 pair / timeframe combinations.
+Found 462 pair / timeframe combinations.
 
 |       Pair |               Timeframe |
 |------------|-------------------------|
@@ -14,12 +14,14 @@ Found 438 pair / timeframe combinations.
 |  AGLD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ALGO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | ALICE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    AR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ATOM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  AVAX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   AXS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BCH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BNB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+| BTCST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  CAKE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  CELO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  CELR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -44,11 +46,13 @@ Found 438 pair / timeframe combinations.
 |  GALA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   GRT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  HBAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  HIVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ICP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ICX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IDEX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IOST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  IOTA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  IOTX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  KAVA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KSM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  LINK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
