@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 480 pair / timeframe combinations.
+Found 498 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -19,6 +19,7 @@ Found 480 pair / timeframe combinations.
 |   AVAX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    AXS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BCH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   BETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BNB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  BTCST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -63,6 +64,7 @@ Found 480 pair / timeframe combinations.
 |   NEAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    OMG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ONT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   PERP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   QTUM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    RAD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -88,6 +90,7 @@ Found 480 pair / timeframe combinations.
 |    XMR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XRP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XTZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    YFI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ZEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 
 
