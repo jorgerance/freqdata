@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 498 pair / timeframe combinations.
+Found 516 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -23,6 +23,7 @@ Found 498 pair / timeframe combinations.
 |    BNB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  BTCST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    BTT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | BURGER/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CAKE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CELO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -32,6 +33,7 @@ Found 498 pair / timeframe combinations.
 |   COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    CRV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DASH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   DATA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DENT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DOGE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    DOT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -56,6 +58,7 @@ Found 498 pair / timeframe combinations.
 |   IOTA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOTX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KAVA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   KLAY/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    KSM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   LINK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    LTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
