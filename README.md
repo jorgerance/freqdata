@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 540 pair / timeframe combinations.
+Found 558 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -69,10 +69,12 @@ Found 540 pair / timeframe combinations.
 |    OMG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   PAXG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   PERP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   QTUM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    RAD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   RARE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   REEF/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ROSE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SAND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SHIB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -91,6 +93,7 @@ Found 540 pair / timeframe combinations.
 |   USDP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    VET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   VIDT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  WAVES/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    WIN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
