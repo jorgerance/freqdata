@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 558 pair / timeframe combinations.
+Found 576 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -77,6 +77,7 @@ Found 558 pair / timeframe combinations.
 |   REEF/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ROSE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SAND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    SFP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SHIB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SLP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SOL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -84,10 +85,12 @@ Found 558 pair / timeframe combinations.
 |   STPT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    STX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  SUSHI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    SXP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  TFUEL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  THETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   TUSD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    TWT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    UNI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   USDC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   USDP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
