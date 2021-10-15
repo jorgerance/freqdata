@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 576 pair / timeframe combinations.
+Found 588 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -19,7 +19,9 @@ Found 576 pair / timeframe combinations.
 |   ATOM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   AVAX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    AXS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   BAKE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BCH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    BEL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BNB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
