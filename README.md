@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 618 pair / timeframe combinations.
+Found 636 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -50,6 +50,7 @@ Found 618 pair / timeframe combinations.
 |    FET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    FIL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   FLOW/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    FOR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    FTM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    FTT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   GALA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -70,6 +71,7 @@ Found 618 pair / timeframe combinations.
 |    LTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   LUNA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  MATIC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    NBS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   NEAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    NKN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     NU/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -78,6 +80,7 @@ Found 618 pair / timeframe combinations.
 |    ONT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   PAXG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   PERP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   POLS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   QTUM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    RAD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   RARE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
