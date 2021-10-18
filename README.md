@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 636 pair / timeframe combinations.
+Found 654 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -55,6 +55,7 @@ Found 636 pair / timeframe combinations.
 |    FTT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   GALA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    GRT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    GTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HBAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HIVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ICP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -78,6 +79,7 @@ Found 636 pair / timeframe combinations.
 |    OMG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    OXT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   PAXG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   PERP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   POLS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -96,6 +98,7 @@ Found 636 pair / timeframe combinations.
 |    STX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  SUSHI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SXP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    SYS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  TFUEL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  THETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
