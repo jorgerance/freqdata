@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 660 pair / timeframe combinations.
+Found 678 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -37,6 +37,7 @@ Found 660 pair / timeframe combinations.
 |   COMP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    CRV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   CTSI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DASH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DATA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DENT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -45,6 +46,7 @@ Found 660 pair / timeframe combinations.
 |    DOT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DYDX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   EGLD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ENJ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    EOS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ETC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ETH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -97,6 +99,7 @@ Found 660 pair / timeframe combinations.
 |    SRM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   STPT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    STX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    SUN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  SUSHI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SXP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SYS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
