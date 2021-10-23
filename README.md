@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 678 pair / timeframe combinations.
+Found 696 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -33,6 +33,7 @@ Found 678 pair / timeframe combinations.
 |   CAKE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CELO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CELR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  CHESS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    CHZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   COMP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -71,6 +72,7 @@ Found 678 pair / timeframe combinations.
 |   KEEP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KLAY/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    KSM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  LAZIO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   LINK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    LTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   LUNA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -91,6 +93,7 @@ Found 678 pair / timeframe combinations.
 |   RARE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   REEF/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ROSE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   RUNE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SAND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SFP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SHIB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
