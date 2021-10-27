@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 702 pair / timeframe combinations.
+Found 708 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -62,6 +62,7 @@ Found 702 pair / timeframe combinations.
 |    GTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HBAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HIVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    HOT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ICP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ICX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IDEX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
