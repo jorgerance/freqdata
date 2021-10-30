@@ -5,12 +5,13 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 720 pair / timeframe combinations.
+Found 738 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
 |   AAVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ADA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ADX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   AGLD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ALGO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ALICE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -21,6 +22,7 @@ Found 720 pair / timeframe combinations.
 |   AVAX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    AXS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BAKE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    BAT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BCH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BEL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -112,6 +114,7 @@ Found 720 pair / timeframe combinations.
 |    SYS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  TFUEL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  THETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    TLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   TUSD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TWT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
