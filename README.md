@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 738 pair / timeframe combinations.
+Found 750 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -36,6 +36,7 @@ Found 738 pair / timeframe combinations.
 |   CELO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CELR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  CHESS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    CHR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    CHZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   COMP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -124,6 +125,7 @@ Found 738 pair / timeframe combinations.
 |    VET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   VIDT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  WAVES/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   WAXP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    WIN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
