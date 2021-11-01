@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 750 pair / timeframe combinations.
+Found 774 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -107,6 +107,7 @@ Found 750 pair / timeframe combinations.
 |    SLP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SOL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SRM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  STORJ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   STPT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    STX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SUN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -134,6 +135,9 @@ Found 750 pair / timeframe combinations.
 |    XTZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    YFI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ZEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ZEN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ZIL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ZRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 
 
 
