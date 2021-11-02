@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 774 pair / timeframe combinations.
+Found 780 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -88,6 +88,7 @@ Found 774 pair / timeframe combinations.
 |    NEO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    NKN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     NU/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  OCEAN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    OMG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
