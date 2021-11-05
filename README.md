@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 792 pair / timeframe combinations.
+Found 798 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -43,6 +43,7 @@ Found 792 pair / timeframe combinations.
 |   COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    CRV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CTSI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    DAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DASH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DATA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DENT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
