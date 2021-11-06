@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 798 pair / timeframe combinations.
+Found 804 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -115,6 +115,7 @@ Found 798 pair / timeframe combinations.
 |   STPT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    STX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SUN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  SUPER/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  SUSHI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SXP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SYS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
