@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 804 pair / timeframe combinations.
+Found 816 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -39,6 +39,7 @@ Found 804 pair / timeframe combinations.
 |  CHESS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    CHR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    CHZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    CKB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   COMP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   COTI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    CRV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -80,6 +81,7 @@ Found 804 pair / timeframe combinations.
 |   KLAY/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    KSM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  LAZIO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   LINA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   LINK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    LRC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    LTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
