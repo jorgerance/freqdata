@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 816 pair / timeframe combinations.
+Found 828 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -69,6 +69,7 @@ Found 816 pair / timeframe combinations.
 |    GTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HBAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HIVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    HNT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    HOT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ICP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ICX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -127,6 +128,7 @@ Found 816 pair / timeframe combinations.
 |    TRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   TUSD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TWT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    UMA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    UNI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   USDC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   USDP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
