@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 840 pair / timeframe combinations.
+Found 858 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -54,6 +54,7 @@ Found 840 pair / timeframe combinations.
 |   DYDX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   EGLD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ENJ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ENS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    EOS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ETC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ETH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -89,7 +90,9 @@ Found 840 pair / timeframe combinations.
 |    LTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   LUNA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   MANA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   MASK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  MATIC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   MINA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    NBS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   NEAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    NEO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
