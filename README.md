@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 858 pair / timeframe combinations.
+Found 870 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -18,6 +18,7 @@ Found 858 pair / timeframe combinations.
 |   ANKR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     AR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ARPA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ATA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ATOM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   AVAX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    AXS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -99,6 +100,7 @@ Found 858 pair / timeframe combinations.
 |    NKN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     NU/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  OCEAN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    OGN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    OMG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ONT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
