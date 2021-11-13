@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 870 pair / timeframe combinations.
+Found 876 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -89,6 +89,7 @@ Found 870 pair / timeframe combinations.
 |    LPT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    LRC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    LTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    LTO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   LUNA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   MANA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   MASK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
