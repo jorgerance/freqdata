@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 876 pair / timeframe combinations.
+Found 912 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -59,6 +59,7 @@ Found 876 pair / timeframe combinations.
 |    EOS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ETC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ETH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  ETHUP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    FET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   FIDA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    FIL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -76,6 +77,7 @@ Found 876 pair / timeframe combinations.
 |    ICP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ICX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IDEX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ILV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOTA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOTX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -114,12 +116,15 @@ Found 876 pair / timeframe combinations.
 |    RAD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   RARE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   REEF/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    REN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ROSE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   RUNE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    RVN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SAND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SFP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SHIB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SLP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    SNX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SOL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SRM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  STORJ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -151,6 +156,7 @@ Found 876 pair / timeframe combinations.
 |    XRP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XTZ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    YFI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    YGG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ZEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ZEN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ZIL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
