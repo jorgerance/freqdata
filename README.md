@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 918 pair / timeframe combinations.
+Found 924 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -112,6 +112,7 @@ Found 918 pair / timeframe combinations.
 |   PERP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   POLS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   POND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  PORTO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     QI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   QTUM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    RAD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
