@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 924 pair / timeframe combinations.
+Found 930 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -20,6 +20,7 @@ Found 924 pair / timeframe combinations.
 |   ARPA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ATA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ATOM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  AUDIO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   AVAX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    AXS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | BADGER/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
