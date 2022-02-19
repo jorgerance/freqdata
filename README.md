@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 930 pair / timeframe combinations.
+Found 936 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -148,6 +148,7 @@ Found 930 pair / timeframe combinations.
 |    UNI/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   USDC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   USDP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    UST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    VET/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   VIDT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  WAVES/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
