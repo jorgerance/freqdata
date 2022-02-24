@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 954 pair / timeframe combinations.
+Found 966 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -113,6 +113,7 @@ Found 954 pair / timeframe combinations.
 |    ONT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    OXT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   PAXG/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+| PEOPLE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   PERP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   POLS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   POND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -123,6 +124,7 @@ Found 954 pair / timeframe combinations.
 |   RARE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   REEF/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    REN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   RNDR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ROSE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   RUNE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    RVN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
