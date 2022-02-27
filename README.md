@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 966 pair / timeframe combinations.
+Found 972 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -35,6 +35,7 @@ Found 966 pair / timeframe combinations.
 |    BTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  BTCST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BTT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   BTTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | BURGER/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CAKE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   CELO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
