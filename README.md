@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 984 pair / timeframe combinations.
+Found 996 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -16,6 +16,7 @@ Found 984 pair / timeframe combinations.
 |   ALGO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ALICE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | ALPINE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    ANC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ANKR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     AR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ARPA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -149,6 +150,7 @@ Found 984 pair / timeframe combinations.
 |  TFUEL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  THETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   TORN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   TUSD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TWT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
