@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 996 pair / timeframe combinations.
+Found 1002 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -104,6 +104,7 @@ Found 996 pair / timeframe combinations.
 |   MASK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  MATIC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   MINA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    MIR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    NBS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   NEAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    NEO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
