@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1002 pair / timeframe combinations.
+Found 1020 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -84,6 +84,7 @@ Found 1002 pair / timeframe combinations.
 |    ICX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IDEX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ILV/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    IMX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOTA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOTX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -103,6 +104,7 @@ Found 1002 pair / timeframe combinations.
 |   MANA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   MASK/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  MATIC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    MBL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   MINA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    MIR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    NBS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -152,6 +154,7 @@ Found 1002 pair / timeframe combinations.
 |  THETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   TORN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   TROY/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   TUSD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    TWT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
