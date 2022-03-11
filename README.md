@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1026 pair / timeframe combinations.
+Found 1032 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -89,6 +89,7 @@ Found 1026 pair / timeframe combinations.
 |   IOST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOTA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   IOTX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  JASMY/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KAVA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KEEP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KLAY/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
