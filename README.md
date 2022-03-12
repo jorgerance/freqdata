@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1032 pair / timeframe combinations.
+Found 1038 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -137,6 +137,7 @@ Found 1032 pair / timeframe combinations.
 |   RUNE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    RVN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SAND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+| SANTOS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SFP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SHIB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SLP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
