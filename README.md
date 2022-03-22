@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1074 pair / timeframe combinations.
+Found 1086 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -34,6 +34,7 @@ Found 1074 pair / timeframe combinations.
 |   BETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BNB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BOND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    BSW/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  BTCST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BTT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -149,6 +150,7 @@ Found 1074 pair / timeframe combinations.
 |    SLP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SNX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SOL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  SPELL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SRM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  STORJ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   STPT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
