@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1086 pair / timeframe combinations.
+Found 1098 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -56,6 +56,7 @@ Found 1086 pair / timeframe combinations.
 |   DASH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DATA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DENT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    DGB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DODO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DOGE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    DOT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -179,6 +180,7 @@ Found 1086 pair / timeframe combinations.
 |  WAVES/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   WAXP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    WIN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    WRX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XEC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XLM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    XMR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
