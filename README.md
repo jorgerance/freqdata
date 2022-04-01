@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1110 pair / timeframe combinations.
+Found 1122 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -81,6 +81,7 @@ Found 1110 pair / timeframe combinations.
 |    GMT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    GRT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    GTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    GTO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HBAR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HIGH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   HIVE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -149,6 +150,7 @@ Found 1110 pair / timeframe combinations.
 | SANTOS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SFP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   SHIB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    SKL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SLP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SNX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    SOL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
