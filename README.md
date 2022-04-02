@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1122 pair / timeframe combinations.
+Found 1134 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -15,6 +15,7 @@ Found 1122 pair / timeframe combinations.
 |   AGLD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ALGO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |  ALICE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|  ALPHA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | ALPINE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ANC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   ANKR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
@@ -33,6 +34,7 @@ Found 1122 pair / timeframe combinations.
 |    BEL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BETA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BNB/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    BNX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   BOND/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BSW/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    BTC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
