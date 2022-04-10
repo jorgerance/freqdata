@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1170 pair / timeframe combinations.
+Found 1176 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -65,6 +65,7 @@ Found 1170 pair / timeframe combinations.
 |   DODO/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DOGE/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    DOT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|   DREP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   DYDX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   EGLD/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    ENJ/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
