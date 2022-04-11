@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1176 pair / timeframe combinations.
+Found 1182 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -105,6 +105,7 @@ Found 1176 pair / timeframe combinations.
 |  JASMY/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    JST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KAVA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    KDA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KEEP/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   KLAY/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    KNC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
