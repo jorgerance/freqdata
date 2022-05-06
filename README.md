@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1206 pair / timeframe combinations.
+Found 1212 pair / timeframe combinations.
 
 |        Pair |               Timeframe |
 |-------------|-------------------------|
@@ -83,6 +83,7 @@ Found 1206 pair / timeframe combinations.
 |    FTM/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    FTT/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |    FXS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|    GAL/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   GALA/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   GHST/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |   GLMR/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
