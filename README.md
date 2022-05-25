@@ -5,7 +5,7 @@
 
 Timeframes: 1m 5m 15m 1h 4h 1d
 
-Found 1218 pair / timeframe combinations.
+Found 1224 pair / timeframe combinations.
 
 |         Pair |               Timeframe |
 |--------------|-------------------------|
@@ -72,6 +72,7 @@ Found 1218 pair / timeframe combinations.
 |     ENS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     EOS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     EPS/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
+|     EPX/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     ETC/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 |     ETH/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
 | ETHDOWN/USDT | 1m, 5m, 15m, 1h, 4h, 1d |
